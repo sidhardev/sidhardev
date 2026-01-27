@@ -17,7 +17,7 @@ I specialize in building scalable backends with **NestJS**. I love turning compl
 
 ### 🧠 What I'm Diving Into Right Now
 * **Deep Real-Time:** Advanced Socket.io patterns like room-based scaling and custom adapters.
-* **Backend Mastery:** Mastering TypeORM Query Builders and high-performance database indexing.
+* **Backend Mastery in NESTJS:** Mastering TypeORM Query Builders and high-performance database indexing.
 
 ---
 
@@ -30,8 +30,8 @@ I specialize in building scalable backends with **NestJS**. I love turning compl
 ### 📫 Let's Connect!
 * **Open to:** Collaborating on high-performance backend systems.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/your-profile)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/dev-sidhar-6251862b8)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/sidhardev)
 
 ---
 *"Building the future, one emit() at a time."*
