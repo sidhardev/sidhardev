@@ -1,138 +1,82 @@
 # 🚀 Dev Sidhar | Full-Stack Developer
 
-I build scalable web applications with **NestJS**, **React.js**, and **PostgreSQL**, focusing on clean architecture, efficient database design, and intuitive user experiences. Experienced in developing REST APIs, authentication systems, dashboard applications, and business management solutions.
+I build scalable web applications with a focus on clean architecture, efficient database design, and intuitive user experiences. Experienced in developing robust REST APIs, real-time communication systems, dashboard applications, and business management solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### Backend Development
+### 🖥️ Backend Development
+* **Frameworks & Runtimes:** Node.js, NestJS
+* **Databases:** PostgreSQL, SQLite, MySQL
+* **ORMs:** TypeORM, Prisma
+* **Architecture & Security:** Modular NestJS Architecture, JWT Authentication & Authorization, Role-Based Access Control (RBAC), Transaction Handling, Database Design & Normalization, SQL Query Optimization.
+* **API Documentation:** Swagger UI
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge\&logo=typeorm\&logoColor=white)
+### 🎨 Frontend Development
+* **Libraries & Frameworks:** React.js, Next.js
+* **UI Libraries:** Material UI (MUI), Tailwind CSS, HTML5, CSS3, JavaScript
+* **Core Skills:** Responsive UI Design, Component-Based Architecture, API Integration, Dashboard Development, State Management, Mobile-First Interfaces.
 
-**Expertise**
-
-* REST API Development
-* JWT Authentication & Authorization
-* Role-Based Access Control (RBAC)
-* Swagger API Documentation
-* Database Design & Normalization
-* SQL Query Optimization
-* TypeORM Relations
-* Modular NestJS Architecture
-
----
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-**Expertise**
-
-* Responsive UI Design
-* Component-Based Architecture
-* API Integration
-* Dashboard Development
-* State Management
-* Mobile-First Interfaces
-
----
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-* Git & GitHub
-* Postman
-* VS Code
-* Cloudflare R2
-* SQLite
-* InfinityFree Hosting
-
----
-
-## 🏗️ Backend Expertise
-
-✔ Database Design & Normalization
-
-✔ Entity Relationship Modeling (ERD)
-
-✔ JWT Authentication & Authorization
-
-✔ Swagger Documentation
-
-✔ TypeORM Relationship Management
-
-✔ Modular NestJS Architecture
-
-✔ SQL Query Optimization
-
-✔ Transaction Handling
-
-✔ Validation & Error Handling
+### 🧰 Tools & Technologies
+* Version Control (Git & GitHub), Postman, VS Code, Cloudflare R2, InfinityFree Hosting.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎯 Loyalty Management System
+### 🏎️ Full-Stack Automobile Platform & Admin Panel
+* **Tech Stack:** NestJS, React.js, Material UI (MUI), PostgreSQL, TypeORM
+* **Core Features:**
+  * Developed a comprehensive, production-grade car-selling platform from scratch.
+  * Built a highly scalable backend with **NestJS** and **TypeORM**, utilizing complex database relations for managing vehicle listings, user roles, and transactions.
+  * Designed and implemented a feature-rich, responsive Full-Stack Admin Dashboard using **React** and **MUI** for real-time inventory tracking, user management, and platform analytics.
 
-**Tech Stack:** NestJS, PostgreSQL, TypeORM, React, MUI
+### 👁️ VisionSecure (AI-Powered Security System)
+* **Tech Stack:** PHP, JavaScript, Custom AI Object Detection Models
+* **Core Features:**
+  * Developed an intelligent, real-time security application designed for instant anomaly detection.
+  * Implemented custom object-detection workflows where users can specify parameters/objects to monitor.
+  * Integrated automated **Telegram Bot API** workflows to send instant alerts and real-time push notifications to users the moment a specified object is detected.
 
-* Designed normalized database architecture for loyalty programs, campaigns, promotions, segments, and coupon management.
-* Developed scalable REST APIs using NestJS.
-* Implemented JWT Authentication and RBAC.
-* Built responsive admin dashboards using React and MUI.
-* Integrated analytics, reporting, and user management modules.
-
----
+### 🎯 Loyalty Management System (LMS)
+* **Tech Stack:** NestJS, PostgreSQL, TypeORM, React, Material UI (MUI)
+* **Core Features:**
+  * Designed a normalized database architecture specifically optimized for loyalty programs, dynamic campaigns, promotions, customer segmentation, and coupon management.
+  * Implemented secure **JWT Authentication** paired with granular **Role-Based Access Control (RBAC)**.
+  * Built an intuitive admin dashboard for tracking user retention analytics, system reporting, and customer management.
 
  
 
 ### 📦 Product Catalog Generator
-
-**Tech Stack:** PHP, SQLite, TCPDF
-
-* Upload and manage product catalogs.
-* Generate PDF catalogs dynamically.
-* Category-wise product management.
-* Optimized image handling for faster PDF generation.
-
- 
- 
+* **Tech Stack:** PHP, SQLite, TCPDF
+* **Core Features:**
+  * Designed a utility for uploading and managing dynamic product catalogs with category-wise sorting.
+  * Generates high-quality PDF catalogs on the fly using **TCPDF**.
+  * Optimized backend image processing and compression for faster PDF generation and reduced server overhead.
 
 ---
 
-## 📈 Currently Learning
-
-* Data Structures & Algorithms
-* Artifical Intelligence
-* Advanced PostgreSQL Optimization
-* System Design Fundamentals
-* Scalable Backend Architecture
+## 📈 Current Focus & Continuous Learning
+* **Advanced Backend:** Scalable Backend Architecture & System Design Fundamentals.
+* **Databases:** Advanced PostgreSQL Optimization & Indexing strategies.
+* **AI & Automation:** Building B2B SaaS tools leveraging multimodal AI models for automation.
+* **Core Engineering:** Data Structures & Algorithms (DSA).
 
 ---
 
 ## 🎯 Career Goals
-
-* Build scalable SaaS products
-* Master System Design
-* Deepen expertise in Backend Engineering
-* Explore AI-powered applications
-* Contribute to impactful real-world software
+* Build and scale meaningful B2B SaaS products.
+* Deepen expertise in high-performance Backend Engineering and System Design.
+* Explore cutting-edge, AI-powered applications to solve real-world problems.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-* Portfolio: https://dev.qrala.com
- 
-⭐ Always open to collaborating on exciting projects and solving challenging engineering problems.
+* 🌐 **Portfolio:** [dev.qrala.com](https://dev.qrala.com)
+* 🐙 **GitHub:** [@sidhardev](https://github.com/sidhardev)
+* 💼 **LinkedIn:** [Dev Sidhar](https://in.linkedin.com/in/dev-sidhar-6251862b8)
+
+---
+⭐ *Always open to collaborating on exciting projects, exploring innovative SaaS architectures, and solving challenging engineering problems.*
